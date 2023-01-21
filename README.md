@@ -4,3 +4,4 @@ We have:
 - Tableau workbook
 - Python workbook
 - SQL workbook
+- Presentation slides
